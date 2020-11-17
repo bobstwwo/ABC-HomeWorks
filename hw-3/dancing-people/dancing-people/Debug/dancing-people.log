@@ -1,0 +1,7 @@
+﻿  dancing-people.cpp
+C:\Users\Asus\Desktop\hw4\dancing-people\dancing-people\dancing-people.cpp(18,94): warning C4566: символ, представленный универсальным именем символа "\u25CF", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Asus\Desktop\hw4\dancing-people\dancing-people\dancing-people.cpp(18,121): warning C4566: символ, представленный универсальным именем символа "\u25A2", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Asus\Desktop\hw4\dancing-people\dancing-people\dancing-people.cpp(52,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\Desktop\hw4\dancing-people\dancing-people\dancing-people.cpp(54,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\Desktop\hw4\dancing-people\dancing-people\dancing-people.cpp(85,20): warning C4018: <: несоответствие типов со знаком и без знака
+  dancing-people.vcxproj -> C:\Users\Asus\Desktop\hw4\dancing-people\Debug\dancing-people.exe
